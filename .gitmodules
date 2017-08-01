@@ -1,0 +1,6 @@
+[submodule "Carrier/Elastos.NET.Carrier.Server"]
+	path = Carrier/Elastos.NET.Carrier.Server
+	url = https://github.com/elastos/Elastos.NET.Carrier.Server
+[submodule "Carrier/Elastos.NET.Carrier.Client"]
+	path = Carrier/Elastos.NET.Carrier.Client
+	url = https://github.com/elastos/Elastos.NET.Carrier.Client
