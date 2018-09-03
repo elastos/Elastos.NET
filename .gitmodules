@@ -1,6 +1,0 @@
-[submodule "Carrier/Native.SDK"]
-	path = Carrier/Native.SDK
-	url = git@github.com:elastos/Elastos.NET.Carrier.Native.SDK.git
-[submodule "Carrier/Bootstrap"]
-	path = Carrier/Bootstrap
-	url = git@github.com:elastos/Elastos.NET.Carrier.Bootstrap
