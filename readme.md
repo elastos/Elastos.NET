@@ -19,7 +19,7 @@ Lately, Elastos Hive project has been added to Elastos.NET composite respository
 * [Elastos.NET.Hive.iOS.SDK](https://github.com/elastos/Elastos.NET.Hive.iOS.SDK)
 * [Elastos.NET.Hive.Cluster](https://github.com/elastos/Elastos.NET.Hive.Cluster)
 
-As same to Carrier, we **plan** to supply Hive SDKs of c-typed APIs, and on top of which, we also supply Android SDK as well as iOS SDKs for developers.
+As same to Carrier, we **plan** to supply Hive SDK of c-typed APIs, and Android SDK as well as iOS SDK for developers.
 
 The last repository of Hive project is to build and deploy Hive cluster node with **rpm** package on GNU/Linux system.
 
