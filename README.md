@@ -139,7 +139,7 @@ Elastos Hive SDKs is a set of APIs to provide for front-end dApps, and will prov
 - [Elastos.NET.Hive.Native.SDK](https://github.com/elastos/Elastos.NET.Hive.Native.SDK) -- **In Progress** 
 - [Elastos.NET.Hive.Java.SDK](https://github.com/elastos/Elastos.NET.Hive.Java.SDK)  -- **To implement**
 - [Elastos.NET.Hive.Android.SDK](https://github.com/elastos/Elastos.NET.Hive.Android.SDK) -- **In Progess**
-- [Elastos.NET.Hive.iOS.SDK](https://github.com/elastos/Elastos.NET.Hive.iOS.SDK)  -- **To implement **
+- [Elastos.NET.Hive.iOS.SDK](https://github.com/elastos/Elastos.NET.Hive.iOS.SDK)  -- **To implement**
 
 # Contributions
 
