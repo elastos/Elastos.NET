@@ -33,7 +33,9 @@ All of service infrastructures are totally implemented as **Decentralized** netw
 
 A quote from the repository of **Elastos.NET.Carrier.Native.SDK** as an introduction to **Carrier **:
 ```
-Elastos Carrier is a decentralized and encrypted peer-to-peer (P2P) communication framework that routes network traffic between virtual machines and Decentralized Applications (DApps).
+Elastos Carrier is a decentralized and encrypted peer-to-peer (P2P) communication
+framework that routes network traffic between virtual machines and Decentralized
+Applications (DApps).
 ```
 
 ### Carrier SDKs
@@ -71,13 +73,19 @@ A quote from the repository of **DittoBox** as an introduction:
 ```
 Introduction
 
-DittBox is a demo application integrating ownCloud over elastos carrier network, and through which we can access or save personal files to ownCloud server that could be deployed at home behind the router.
+DittBox is a demo application integrating ownCloud over elastos carrier network, and
+through which we can access or save personal files to ownCloud server that could be
+deployed at home behind the router.
 
 Highlights
 
-This app demonstrates that all traditional http(/https)-based application can be refactored to elastos carrier apps running over carrier network. Being elastos carrier web app, the app server can be deployed without requirement of direct network accessibiblity.
+This app demonstrates that all traditional http(/https)-based application can be
+refactored to elastos carrier apps running over carrier network. Being elastos carrier
+web app, the app server can be deployed without requirement of direct network
+accessibiblity.
 
-For example, through elastos carrier network, you can deploy ownCloud server in local network at your home, and access ownCloud service at anywhere.
+For example, through elastos carrier network, you can deploy ownCloud server in local
+network at your home, and access ownCloud service at anywhere.
 ```
 
 The repositories of **DittoBox** are listed below:
@@ -103,7 +111,9 @@ All repositories to carrier demos are listed below:
 An quote from repository of Hive **DevDocs** as an introduction:
 
 ```
-Elastos Hive is a basic service infrastructure that provide storage capabilities to dApps with decentralized characteristics, which leveraged standard IPFS/Cluster open source projects with some necessary refits.
+Elastos Hive is a basic service infrastructure that provide storage capabilities to
+dApps with decentralized characteristics, which leveraged standard IPFS/Cluster open
+source projects with some necessary refits.
 ```
 
 Elastos Hive project is mainly made of two parts:
