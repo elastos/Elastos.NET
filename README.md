@@ -99,10 +99,9 @@ Besides **DittoBox**, we also have developed some other carrier applications as 
 
 All repositories to carrier demos are listed below:
 
-- [[Elastos.NET.Carrier.Samples.Android](https://github.com/elastos/Elastos.NET.Carrier.Samples.Android)]
+- [Elastos.Carrier.Demo.Remoter.iOS](https://github.com/elastos/Elastos.Carrier.Demo.Remoter.iOS)
 - [Elastos.Carrier.Demo.Remoter.Android](https://github.com/elastos/Elastos.Carrier.Demo.Remoter.Android)
 - [Elastos.Carrier.Demo.FileTransfer.Android](https://github.com/elastos/Elastos.Carrier.Demo.FileTransfer.Android)
-- [Elastos.Carrier.Demo.Remoter.iOS](https://github.com/elastos/Elastos.Carrier.Demo.Remoter.iOS)
 
 # Elastos Hive 
 
